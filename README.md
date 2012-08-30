@@ -19,9 +19,7 @@ public class Interfaz {
 		
 		
 	
-	System.out.println("1.Ingresar juego");
-	System.out.println("2.Jugar");
-	System.out.println("3.Solucionar");
+	
 	
 	System.out.println("\nIngrese la opcion deseada:");
 	int opc=sc.nextInt();
